@@ -1,70 +1,66 @@
 ﻿using System;
 
-namespace _03.EasterTrip
+namespace _05._Easter_Eggs
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string country = Console.ReadLine();
-            string dates = Console.ReadLine();
-            int nights = int.Parse(Console.ReadLine());
+            int redCount = 0;
+            int orangeCount = 0;
+            int blueCount = 0;
+            int greenCount = 0;
 
-            int price = 0;
+            int max = 0;
+            string maxColor = "";
 
-            if (country == "France")
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < n; i++)
             {
-                switch (dates)
+                string line = Console.ReadLine();
+
+                if (line == "orange")
                 {
-                    case "21-23":
-                        price = 30;
-                            break;
-                    case "24-27":
-                        price = 35;
-                        break;
-                    case "28-31":
-                        price = 40;
-                        break;
-                    default:
-                        break;
+                    orangeCount++;
+                    if (orangeCount > max)
+                    {
+                        max = orangeCount;
+                        maxColor = "orange";
+                    }
+                }
+                else if (line == "red")
+                {
+                    redCount++;
+                    if (redCount > max)
+                    {
+                        max = redCount;
+                        maxColor = "red";
+                    }
+                }
+                else if (line == "blue")
+                {
+                    blueCount++;
+                    if (blueCount > max)
+                    {
+                        max = blueCount;
+                        maxColor = "blue";
+                    }
+                }
+                else if (line == "green")
+                {
+                    greenCount++;
+                    if (greenCount > max)
+                    {
+                        max = greenCount;
+                        maxColor = "green";
+                    }
                 }
             }
-            else if (country == "Italy")
-            {
-                switch (dates)
-                {
-                    case "21-23":
-                        price = 28;
-                        break;
-                    case "24-27":
-                        price = 32;
-                        break;
-                    case "28-31":
-                        price = 39;
-                        break;
-                    default:
-                        break;
-                }
-            }
-            else if (country == "Germany")
-            {
-                switch (dates)
-                {
-                    case "21-23":
-                        price = 32;
-                        break;
-                    case "24-27":
-                        price = 37;
-                        break;
-                    case "28-31":
-                        price = 43;
-                        break;
-                    default:
-                        break;
-                }
-            }
-            double totalSum = nights * price;
-            Console.WriteLine($"Easter trip to {country} : {totalSum:f2} leva.");
+            Console.WriteLine($"Red eggs: {redCount}");
+            Console.WriteLine($"Orange eggs: {orangeCount}");
+            Console.WriteLine($"Blue eggs: {blueCount}");
+            Console.WriteLine($"Green eggs: {greenCount}");
+            Console.WriteLine($"Max eggs: {max} -> {maxColor}");
         }
     }
 }
