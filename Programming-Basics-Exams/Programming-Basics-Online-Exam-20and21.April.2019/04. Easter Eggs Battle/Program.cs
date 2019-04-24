@@ -1,70 +1,46 @@
 ﻿using System;
 
-namespace _03.EasterTrip
+namespace _04._Easter_Eggs_Battle
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string country = Console.ReadLine();
-            string dates = Console.ReadLine();
-            int nights = int.Parse(Console.ReadLine());
+            int firstPlayerEggs = int.Parse(Console.ReadLine());
+            int secondPlayerEggs = int.Parse(Console.ReadLine());
 
-            int price = 0;
-
-            if (country == "France")
+            while (true)
             {
-                switch (dates)
+                string line = Console.ReadLine();
+                if (line == "End of battle")
                 {
-                    case "21-23":
-                        price = 30;
-                            break;
-                    case "24-27":
-                        price = 35;
+                    break;
+                }
+                // first Player wins
+                if (line == "one")
+                {
+                    secondPlayerEggs--;
+                    if (secondPlayerEggs == 0)
+                    {
+                        Console.WriteLine($"Player two is out of eggs. Player one has {firstPlayerEggs} eggs left.");
                         break;
-                    case "28-31":
-                        price = 40;
+                    }
+                }
+                else if (line == "two")
+                {
+                    firstPlayerEggs--;
+                    if (firstPlayerEggs == 0)
+                    {
+                        Console.WriteLine($"Player one is out of eggs. Player two has {secondPlayerEggs} eggs left.");
                         break;
-                    default:
-                        break;
+                    }
                 }
             }
-            else if (country == "Italy")
+            if (firstPlayerEggs > 0 && secondPlayerEggs > 0)
             {
-                switch (dates)
-                {
-                    case "21-23":
-                        price = 28;
-                        break;
-                    case "24-27":
-                        price = 32;
-                        break;
-                    case "28-31":
-                        price = 39;
-                        break;
-                    default:
-                        break;
-                }
+                Console.WriteLine($"Player one has {firstPlayerEggs} eggs left.");
+                Console.WriteLine($"Player two has {secondPlayerEggs} eggs left.");
             }
-            else if (country == "Germany")
-            {
-                switch (dates)
-                {
-                    case "21-23":
-                        price = 32;
-                        break;
-                    case "24-27":
-                        price = 37;
-                        break;
-                    case "28-31":
-                        price = 43;
-                        break;
-                    default:
-                        break;
-                }
-            }
-            double totalSum = nights * price;
-            Console.WriteLine($"Easter trip to {country} : {totalSum:f2} leva.");
         }
     }
 }
