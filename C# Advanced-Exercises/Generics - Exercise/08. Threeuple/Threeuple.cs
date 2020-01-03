@@ -21,7 +21,7 @@ namespace _08.Threeuple
         }
         public override string ToString()
         {
-            return $"{TOne} -> {this.TTwo} -> {this.TThree}";
+            return $"{this.TOne} -> {this.TTwo} -> {this.TThree}";
         }
     }
 }
