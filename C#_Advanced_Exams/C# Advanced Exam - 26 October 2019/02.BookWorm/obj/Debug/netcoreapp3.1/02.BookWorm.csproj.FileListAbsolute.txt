@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.exe
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-26.10.2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.pdb
