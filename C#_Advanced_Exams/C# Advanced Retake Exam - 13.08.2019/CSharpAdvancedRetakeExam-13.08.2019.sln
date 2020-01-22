@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SummerCocktails", "01.SummerCocktails\01.SummerCocktails.csproj", "{097DA0C7-1C88-4905-8D59-A2764FEBE268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SummerCocktails", "01.SummerCocktails\01.SummerCocktails.csproj", "{097DA0C7-1C88-4905-8D59-A2764FEBE268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SeashellTreasure", "02.SeashellTreasure\02.SeashellTreasure.csproj", "{695901A7-0E65-459E-A1AA-4EEA7DA87386}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{097DA0C7-1C88-4905-8D59-A2764FEBE268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097DA0C7-1C88-4905-8D59-A2764FEBE268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097DA0C7-1C88-4905-8D59-A2764FEBE268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695901A7-0E65-459E-A1AA-4EEA7DA87386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695901A7-0E65-459E-A1AA-4EEA7DA87386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695901A7-0E65-459E-A1AA-4EEA7DA87386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695901A7-0E65-459E-A1AA-4EEA7DA87386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
