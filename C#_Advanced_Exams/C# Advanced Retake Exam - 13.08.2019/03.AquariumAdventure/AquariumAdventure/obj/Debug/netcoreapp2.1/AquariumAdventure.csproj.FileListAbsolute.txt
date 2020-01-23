@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-13.08.2019\03.AquariumAdventure\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.pdb
