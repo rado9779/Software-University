@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.exe
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.deps.json
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.runtimeconfig.json
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.dll
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\bin\Debug\netcoreapp3.1\01.SpaceshipCrafting.pdb
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\obj\Debug\netcoreapp3.1\01.SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\obj\Debug\netcoreapp3.1\01.SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\obj\Debug\netcoreapp3.1\01.SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\obj\Debug\netcoreapp3.1\01.SpaceshipCrafting.dll
+C:\Users\USER\source\repos\CSharpAdvancedExam-23.06.2019\01.SpaceshipCrafting\obj\Debug\netcoreapp3.1\01.SpaceshipCrafting.pdb
