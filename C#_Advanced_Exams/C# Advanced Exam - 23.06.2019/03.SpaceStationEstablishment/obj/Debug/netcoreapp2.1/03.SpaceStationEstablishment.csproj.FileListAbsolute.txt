@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03.SpaceStationEstablishment.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03.SpaceStationEstablishment.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03.SpaceStationEstablishment.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03.SpaceStationEstablishment.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03.SpaceStationEstablishment.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03.SpaceStationEstablishment.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03.SpaceStationEstablishment.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03.SpaceStationEstablishment.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03.SpaceStationEstablishment.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03.SpaceStationEstablishment.pdb
