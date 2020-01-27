@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-23.06.2019\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
