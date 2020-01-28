@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.exe
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\bin\Debug\netcoreapp3.1\01.TrojanInvasion.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\obj\Debug\netcoreapp3.1\01.TrojanInvasion.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\obj\Debug\netcoreapp3.1\01.TrojanInvasion.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\obj\Debug\netcoreapp3.1\01.TrojanInvasion.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\obj\Debug\netcoreapp3.1\01.TrojanInvasion.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-16.04.2019\01.TrojanInvasion\obj\Debug\netcoreapp3.1\01.TrojanInvasion.pdb
