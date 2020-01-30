@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.exe
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\bin\Debug\netcoreapp3.1\01.ClubParty.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\obj\Debug\netcoreapp3.1\01.ClubParty.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\obj\Debug\netcoreapp3.1\01.ClubParty.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\obj\Debug\netcoreapp3.1\01.ClubParty.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\obj\Debug\netcoreapp3.1\01.ClubParty.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\01.Club Party\obj\Debug\netcoreapp3.1\01.ClubParty.csprojAssemblyReference.cache

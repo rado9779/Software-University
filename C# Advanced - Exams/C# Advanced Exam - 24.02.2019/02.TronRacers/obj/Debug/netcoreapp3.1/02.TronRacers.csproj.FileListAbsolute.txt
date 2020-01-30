@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.exe
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.pdb
