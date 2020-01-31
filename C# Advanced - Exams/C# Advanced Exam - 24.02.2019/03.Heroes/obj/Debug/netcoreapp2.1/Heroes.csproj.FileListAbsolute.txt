@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedExam-24.02.2019\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
