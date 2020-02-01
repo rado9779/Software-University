@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.exe
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.deps.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp3.1\01.Santa'sPresentFactory.pdb
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp3.1\01.Santa'sPresentFactory.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp3.1\01.Santa'sPresentFactory.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp3.1\01.Santa'sPresentFactory.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp3.1\01.Santa'sPresentFactory.dll
+D:\VisualStudioProjects\GitHub\CSharpAdvancedRetakeExam-17.12.2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp3.1\01.Santa'sPresentFactory.pdb
