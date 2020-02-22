@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.exe
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.deps.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.dll
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\netcoreapp3.0\Shapes.pdb
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\netcoreapp3.0\Shapes.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\netcoreapp3.0\Shapes.dll
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\netcoreapp3.0\Shapes.pdb

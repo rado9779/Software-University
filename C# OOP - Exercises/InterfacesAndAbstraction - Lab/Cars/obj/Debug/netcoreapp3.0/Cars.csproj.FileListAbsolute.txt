@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.exe
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.deps.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.dev.json
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.dll
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\bin\Debug\netcoreapp3.0\Cars.pdb
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfo.cs
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.0\Cars.dll
+D:\VisualStudioProjects\GitHub\InterfacesAndAbstraction-Lab\Cars\obj\Debug\netcoreapp3.0\Cars.pdb
