@@ -1,0 +1,70 @@
+{{> header}}
+
+<div class="content">
+    <section class="js">
+        <h2>JavaScript</h2>
+        <div class="articles">
+            {{#if isAuth}}
+            {{#each jsArticles}}
+            <article>
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+                <a href="#/details/{{id}}" class="btn details-btn">Details</a>
+            </article>
+            {{/each}}
+            {{else}}
+            <h3 class="no-articles">No articles yet</h3>
+            {{/if}}
+        </div>
+    </section>
+    <section class="CSharp">
+        <h2>C#</h2>
+        <div class="articles">
+            {{#if isAuth}}
+            {{#each csharpArticles}}
+            <article>
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+                <a href="#/details/{{id}}" class="btn details-btn">Details</a>
+            </article>
+            {{/each}}
+            {{else}}
+            <h3 class="no-articles">No articles yet</h3>
+            {{/if}}
+        </div>
+    </section>
+    <section class="Java">
+        <h2>Java</h2>
+        <div class="articles">
+            {{#if isAuth}}
+            {{#each javaArticles}}
+            <article>
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+                <a href="#/details/{{id}}" class="btn details-btn">Details</a>
+            </article>
+            {{/each}}
+            {{else}}
+            <h3 class="no-articles">No articles yet</h3>
+            {{/if}}
+        </div>
+    </section>
+    <section class="Pyton">
+        <h2>Pyton</h2>
+        <div class="articles">
+            {{#if isAuth}}
+            {{#each pytonArticles}}
+            <article>
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+                <a href="#/details/{{id}}" class="btn details-btn">Details</a>
+            </article>
+            {{/each}}
+            {{else}}
+            <h3 class="no-articles">No articles yet</h3>
+            {{/if}}
+        </div>
+    </section>
+</div>
+
+{{> footer}}
